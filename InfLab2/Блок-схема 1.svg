@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 204.25 1501">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .01em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-7 {
+        font-size: 36px;
+      }
+
+      .cls-7, .cls-8, .cls-9 {
+        fill: #fff;
+        font-family: TimesNewRomanPSMT, 'Times New Roman';
+      }
+
+      .cls-10 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-8 {
+        font-size: 24px;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-9 {
+        font-size: 21px;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-4" x=".5" y=".5" width="200" height="100" rx="46.91" ry="46.91"/>
+    <text class="cls-7" transform="translate(45.05 63.01)"><tspan x="0" y="0">Н</tspan><tspan class="cls-10" x="26" y="0">а</tspan><tspan x="40.54" y="0">ч</tspan><tspan class="cls-3" x="58.64" y="0">а</tspan><tspan x="74.94" y="0">ло</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-4" x=".5" y="200.5" width="200" height="100"/>
+    <text class="cls-8" transform="translate(16.42 244.44)"><tspan x="0" y="0">Задание ра</tspan><tspan class="cls-14" x="110.53" y="0">з</tspan><tspan x="119.67" y="0">мера </tspan><tspan class="cls-13" x="39.26" y="28.8">м</tspan><tspan class="cls-2" x="54.28" y="28.8">а</tspan><tspan class="cls-1" x="64.31" y="28.8">т</tspan><tspan x="75.09" y="28.8">рицы</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-4" x=".5" y="400.5" width="200" height="100"/>
+    <text class="cls-7" transform="translate(8.72 441.41)"><tspan x="0" y="0">О</tspan><tspan class="cls-5" x="26" y="0">б</tspan><tspan x="43.42" y="0">ъя</tspan><tspan class="cls-6" x="78.59" y="0">в</tspan><tspan x="95.12" y="0">ление </tspan><tspan class="cls-13" x="24.55" y="43.2">м</tspan><tspan class="cls-2" x="47.08" y="43.2">а</tspan><tspan class="cls-1" x="62.13" y="43.2">т</tspan><tspan x="78.3" y="43.2">рицы</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-4" x=".5" y="600.5" width="200" height="100"/>
+    <text class="cls-8" transform="translate(41.15 630.04)"><tspan x="0" y="0">З</tspan><tspan class="cls-6" x="12.02" y="0">а</tspan><tspan x="22.36" y="0">п</tspan><tspan class="cls-6" x="35.2" y="0">о</tspan><tspan x="46.89" y="0">лнение </tspan><tspan x="-19.83" y="28.8">н</tspan><tspan class="cls-11" x="-6.99" y="28.8">у</tspan><tspan x="3.96" y="28.8">ле</tspan><tspan class="cls-13" x="26.58" y="28.8">в</tspan><tspan x="37.75" y="28.8">ой с</tspan><tspan class="cls-1" x="79.25" y="28.8">т</tspan><tspan x="90.03" y="28.8">роки </tspan><tspan class="cls-6" x="3.05" y="57.6">е</tspan><tspan x="13.38" y="57.6">диницами</tspan></text>
+  </g>
+  <g>
+    <polygon class="cls-4" points="200.5 830.5 200.5 900.5 .5 900.5 .5 830.5 30.5 800.5 170.5 800.5 200.5 830.5"/>
+    <text class="cls-7" transform="translate(46.64 841.41)"><tspan x="0" y="0">Цикл 1</tspan><tspan x="-19.79" y="43.2">i = 0, ..., n</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-4" x=".5" y="1000.5" width="200" height="100"/>
+    <text class="cls-9" transform="translate(2.53 1032.6)"><tspan x="0" y="0">З</tspan><tspan class="cls-6" x="10.52" y="0">а</tspan><tspan x="19.56" y="0">п</tspan><tspan class="cls-6" x="30.8" y="0">о</tspan><tspan x="41.03" y="0">лнение ср</tspan><tspan class="cls-1" x="128.93" y="0">е</tspan><tspan x="138.51" y="0">за i-ой </tspan><tspan x="-.53" y="25.2">с</tspan><tspan class="cls-1" x="8.79" y="25.2">т</tspan><tspan x="18.22" y="25.2">роки </tspan><tspan class="cls-6" x="65.91" y="25.2">о</tspan><tspan x="76.14" y="25.2">т н</tspan><tspan class="cls-11" x="101.8" y="25.2">у</tspan><tspan x="111.38" y="25.2">ле</tspan><tspan class="cls-13" x="131.18" y="25.2">в</tspan><tspan x="140.95" y="25.2">о</tspan><tspan class="cls-5" x="151.45" y="25.2">г</tspan><tspan x="159.54" y="25.2">о до </tspan><tspan x="35.81" y="50.4">n-i-</tspan><tspan class="cls-5" x="66.13" y="50.4">г</tspan><tspan x="74.22" y="50.4">о с</tspan><tspan class="cls-6" x="99.29" y="50.4">то</tspan><tspan x="118.41" y="50.4">лбца</tspan></text>
+  </g>
+  <g>
+    <polygon class="cls-4" points=".5 1270.5 .5 1200.5 200.5 1200.5 200.5 1270.5 170.5 1300.5 30.5 1300.5 .5 1270.5"/>
+    <text class="cls-7" transform="translate(46.64 1263.01)"><tspan x="0" y="0">Цикл 1</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-4" x=".5" y="1400.5" width="200" height="100" rx="46.91" ry="46.91"/>
+    <text class="cls-7" transform="translate(53.14 1463.01)"><tspan class="cls-12" x="0" y="0">К</tspan><tspan x="22.22" y="0">онец</tspan></text>
+  </g>
+  <line class="cls-4" x1="100.5" y1="100.5" x2="100.5" y2="200.5"/>
+  <line class="cls-4" x1="100.5" y1="300.5" x2="100.5" y2="400.5"/>
+  <line class="cls-4" x1="100.5" y1="500.5" x2="100.5" y2="600.5"/>
+  <line class="cls-4" x1="100.5" y1="700.5" x2="100.5" y2="800.5"/>
+  <line class="cls-4" x1="100.5" y1="900.5" x2="100.5" y2="1000.5"/>
+  <line class="cls-4" x1="100.5" y1="1100.5" x2="100.5" y2="1200.5"/>
+  <line class="cls-4" x1="100.5" y1="1300.5" x2="100.5" y2="1400.5"/>
+</svg>
